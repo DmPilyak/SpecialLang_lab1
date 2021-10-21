@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() { 
-    cout << "For firstBranch changes" << endl;
+    cout << "Bye, Dmitriy Pilyak!" << endl;
     return 0; 
 }
